@@ -1,6 +1,4 @@
-/**
- * Created by lzhan on 2017/8/8.
- */
+
 var Mock = require('mockjs');
 var data = Mock.mock({
     'list|1-10': [{
